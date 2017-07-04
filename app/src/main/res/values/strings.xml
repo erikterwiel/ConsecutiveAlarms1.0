@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Consecutive Alarms</string>
+    <string name="time_am">AM</string>
+    <string name="time_pm">PM</string>
+    <string name="text_alarms">Alarms</string>
+    <string name="edit_alarm_activity_label">Edit Alarm</string>
+    <string name="alarm_list_vibrate">Vibrate</string>
+    <string name="welcome">Thank you for downloading Consecutive Alarms!</string>
+    <string name="info">Consecutive alarms is an app that allows you to set multiple alarms in a row in a single \"Consecutive Alarm.\" Alarms leading up to the last alarm will ring for a maximum of 30 seconds. To get started, add an alarm by pressing the button at the bottom of the page."</string>
+    <string name="info2">To begin, select the time you would like the last alarm to ring at by pressing the \"Last Ring\" time. After you have selected your Last Ring time, use the \"Alarms\" picker to set the amount of alarms and \"Interval\" picker to set the time in minutes between alarms.</string>
+    <string name="info3">You may also set the days you want the Consecutive Alarm to play on as well as custom ringtones for each ring.</string>
+</resources>
